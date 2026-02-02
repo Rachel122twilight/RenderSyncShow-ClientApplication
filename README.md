@@ -1,2 +1,2 @@
 # RenderSyncShow-ClientApplication
-Supporting applications for the RenderSyncShow
+Supporting application for the RenderSyncShow
